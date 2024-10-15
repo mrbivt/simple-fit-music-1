@@ -1,0 +1,24 @@
+Track: Get Out My Way | Artist: NEFFEX
+Track: Can't Stop | Artist: Alban Chela
+Track: Bringing the Fire | Artist: Carry the Throne
+Track: Mayhem | Artist: Composer!
+Track: Legendary | Artist: Cryjaxx/ Junior Charles/ Peter Piffen/ Vkay/ DizzyEight
+Track: Arena | Artist: Fabian Mazur/Snavs
+Track: Beast (feat. Young Lyxx) | Artist: Haterade, Fransis Derelle, Young Lyxx
+Track: Shell Shocked (feat. Kill The Noise & Madsonik) | Artist: Juicy J/ Wiz Khalifa/ Ty Dolla $ign/ Kill The Noise/ Madsonik
+Track: Remember The Name | Artist: Kløn/Kris Norton
+Track: HUMANS (Far Out Remix) | Artist: KLOUD
+Track: Axel F | Artist: Max Fail/Zero Sugar/Kury
+Track: Fight Back | Artist: NEFFEX
+Track: Like A Boss | Artist: NOIXES
+Track: Shell Shocked | Artist: Reaktive/Epsilonite/Jary Da Capo
+Track: Assassinate | Artist: RVPTR/ GODMODE/ Yunay
+Track: Stronger | Artist: TheFatRat/ Slaydit/ Anjulie
+Track: Fight | Artist: TheUnder/Panther
+Track: Get It Going | Artist: Ty Noam Frankel
+Track: Get Money | Artist: Ty Noam Frankel/Andrey Tatarinov
+Track: MATAFAKA | Artist: Unknown Brain/Marvin Divine
+
+# Python code to list track names and artists
+trackNames = ['Get Out My Way', "Can't Stop", 'Bringing the Fire', 'Mayhem', 'Legendary', 'Arena', 'Beast (feat. Young Lyxx)', 'Shell Shocked (feat. Kill The Noise & Madsonik)', 'Remember The Name', 'HUMANS (Far Out Remix)', 'Axel F', 'Fight Back', 'Like A Boss', 'Shell Shocked', 'Assassinate', 'Stronger', 'Fight', 'Get It Going', 'Get Money', 'MATAFAKA']
+artists = ['NEFFEX', 'Alban Chela', 'Carry the Throne', 'Composer!', 'Cryjaxx/ Junior Charles/ Peter Piffen/ Vkay/ DizzyEight', 'Fabian Mazur/Snavs', 'Haterade, Fransis Derelle, Young Lyxx', 'Juicy J/ Wiz Khalifa/ Ty Dolla $ign/ Kill The Noise/ Madsonik', 'Kløn/Kris Norton', 'KLOUD', 'Max Fail/Zero Sugar/Kury', 'NEFFEX', 'NOIXES', 'Reaktive/Epsilonite/Jary Da Capo', 'RVPTR/ GODMODE/ Yunay', 'TheFatRat/ Slaydit/ Anjulie', 'TheUnder/Panther', 'Ty Noam Frankel', 'Ty Noam Frankel/Andrey Tatarinov', 'Unknown Brain/Marvin Divine']
